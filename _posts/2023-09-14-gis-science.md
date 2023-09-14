@@ -15,6 +15,8 @@ I feel that I have most often viewed GIS as a **tool**. I think I tend to focus 
 Link to [another post](/welcome-to-jekyll)
 
 
+Here is an image : ![Github Logo](/assets/images/github-mark.png)
+
 | table column 1 | table column 2 |
 | :--------: | :-----: |
 | item 1 | item 2 |

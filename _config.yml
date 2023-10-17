@@ -57,7 +57,7 @@ plugins:
 
 author:
   name   : "Colman Bashore"
-  avatar : "/assets/images/bio-photo.jpg"
+  avatar : "/assets/images/headshot.jpg"
   bio    : "Geography Student at Middlebury College."
   links:
     - label: "Website"

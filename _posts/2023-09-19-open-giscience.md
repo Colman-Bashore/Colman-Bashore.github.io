@@ -16,4 +16,5 @@ While open-source software increases transparency in spatial science, it cannot 
 
 References: \
 NASEM. 2019. Reproducibility and Replicability in Science. Washington, D.C.: National Academies Press. DOI: 10.17226/25303 \
-Rey, S. J. 2009. Show me the code: Spatial analysis and open source. Journal of Geographical Systems 11 (2):191–207. DOI: 10.1007/s10109-009-0086-8 \
+\
+Rey, S. J. 2009. Show me the code: Spatial analysis and open source. Journal of Geographical Systems 11 (2):191–207. DOI: 10.1007/s10109-009-0086-8 

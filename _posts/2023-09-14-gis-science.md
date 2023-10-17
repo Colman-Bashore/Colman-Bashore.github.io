@@ -17,14 +17,4 @@ NASEM (National Academies of Sciences, Engineering, and Medicine). 2019. Reprodu
 \
 Wright, D. J., M. F. Goodchild, and J. D. Proctor. 1997. GIS: Tool or science? Demystifying the persistent ambiguity of GIS as “tool” versus “science.” Annals of the Association of American Geographers 87 (2):346–362. DOI:10.1111/0004-5608.872057 \
 \
-St. Martin, K., and J. Wing. 2007. The discourse and discipline of GIS. Cartographica 42 (3):235–248. DOI:10.3138/carto.42.3.235-248 \
-
-
-Link to [another post](/blog/post-notice/)
-
-
-Here is an image : ![Github Logo](/assets/images/github-mark.png)
-
-| table column 1 | table column 2 |
-| :--------: | :-----: |
-| item 1 | item 2 |
+St. Martin, K., and J. Wing. 2007. The discourse and discipline of GIS. Cartographica 42 (3):235–248. DOI:10.3138/carto.42.3.235-248 

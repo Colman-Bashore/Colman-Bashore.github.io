@@ -14,6 +14,6 @@ One of the primary threats to reproducibility in GIS is a lack of transparency. 
 While open-source software increases transparency in spatial science, it cannot solve some of the other issues in the current scientific community. For example, pressure to publish and produce new, dramatic findings appears to be a major issue in the scientific space. While open-source software may help foster a spirit of collaboration, it cannot necessarily help mediate the pressure on scientists to produce findings potentially resulting from questionable research practices. As long as powerful journals continue to control much of the release of scientific literature, it will be difficult for scientists to be able to escape the lure of getting published in a major journal. The "boring" science of checking others' work and making sure methods are truly accurate and precise will need to be continually championed.  
 
 
-References:
-NASEM. 2019. Reproducibility and Replicability in Science. Washington, D.C.: National Academies Press. DOI: 10.17226/25303
-Rey, S. J. 2009. Show me the code: Spatial analysis and open source. Journal of Geographical Systems 11 (2):191–207. DOI: 10.1007/s10109-009-0086-8
+References: \
+NASEM. 2019. Reproducibility and Replicability in Science. Washington, D.C.: National Academies Press. DOI: 10.17226/25303 \
+Rey, S. J. 2009. Show me the code: Spatial analysis and open source. Journal of Geographical Systems 11 (2):191–207. DOI: 10.1007/s10109-009-0086-8 \

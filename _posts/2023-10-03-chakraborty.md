@@ -12,4 +12,5 @@ In Open Source GIScience we conducted a reproduction study of Chakarborty (2021)
 
 Link to [full report](https://colman-bashore.github.io/RPr-Chakraborty-2021/)
 
+Link to [full repository](https://github.com/Colman-Bashore/RPr-Chakraborty-2021)
 

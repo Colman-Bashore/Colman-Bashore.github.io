@@ -1,5 +1,5 @@
 ---
-title: "Malcomb et al within the framework of Tate"
+title: "Uncertainty in Index Modeling"
 excerpt_separator: "<!--more-->"
 categories:
   - Blog

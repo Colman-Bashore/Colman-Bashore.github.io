@@ -1,0 +1,12 @@
+---
+title: "Geographic Threats to Validity"
+excerpt_separator: "<!--more-->"
+categories:
+  - Blog
+tags:
+  - GIS
+  - Validity
+---
+
+I will be working on a reproduction of an analysis of the environmental justice patterns of Hurricane Harvey in Harris County that was part of a Geography 120 lab problem.
+One of the main geographic threat to validity in this study is the modifiable areal unit problem. In the case of the original study the data sources are aggregated at the level of census block groups. In many cases the unit of aggregation used for a study can dramatically change the output of an analysis. For example, the map of majority racial groups in Harris County aggregated at the block group level would be much more complex than a map at the tract level but it would not be as detailed may show different trends than a map produced with data at the block level. The original study unit size is based upon the scale of data available, which often determines the unit used. However, we cannot be sure that the results of our analysis wouldn't be different if we used a finer unit of analysis, therefore the unit of aggregation is a threat to validity in this study. Additionally, another threat to this study is the confusion of spatial and a-spatial causation. Flooding is an example of a variable that is often considered to be based exlusivily on the physical geographic of a place. However, this may lead to a lack of focus on variables such as emergency preparedness that may impact the extent of flooding. Another threat to validity is the common assumption that all locations within a delineated region are the same. In the case of the Harvey flooding study we may see that a region that has a predominantly white population has a lot of flooding, but we are not taking into consideration the distribution of population within that area and cannot tell whether the flooding in that region is overlapping with the white population or if there are other factors at play such as flooding in undeveloped wetlands within the region, which would not have a significant human geography impact. Finally, there may be a boundary effect from the border of Harris County. The northwest border of Harris County is a river, thus it follows that the lowland area surrounding it would be more likely to flood. Thus, by not extending the extent of the study, we may see higher flooded percentages in regions that touch this border. 

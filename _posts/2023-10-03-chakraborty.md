@@ -2,7 +2,7 @@
 title: "Disability and COVID-19 Reproduction"
 excerpt_separator: "<!--more-->"
 categories:
-  - Blog
+  - Studies
 tags:
   - GIS
   - Reproduction
